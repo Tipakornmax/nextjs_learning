@@ -5,7 +5,7 @@ export default function Preview() {
   const year = 2025;
   const month = 8; // กันยายน
   const daysInMonth = new Date(year, month + 1, 0).getDate();
-  const dayNames = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fre", "Sat"];
+  const dayNames = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"];
 
   const users = ["User A", "User B", "User C"];
 

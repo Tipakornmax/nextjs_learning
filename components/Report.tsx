@@ -5,7 +5,7 @@ export default function Report() {
     const year = 2025;
     const month = 8; // กันยายน
     const daysInMonth = new Date(year, month + 1, 0).getDate();
-    const dayNames = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fre", "Sat"];
+    const dayNames = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"];
 
     const users = ["User A", "User B", "User C", "User D", "User E", "User F", "User G", "User H", "User I", "User J", "User K"];
 
