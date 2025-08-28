@@ -1,1 +1,25 @@
-{}
+{
+  "[project]/components/Preview.tsx [app-client] (ecmascript, next/dynamic entry)": {
+    "id": "[project]/components/Preview.tsx [app-client] (ecmascript, next/dynamic entry)",
+    "files": [
+      "static/chunks/components_styles_tabledate_18a1c71f.css",
+      "static/chunks/components_Preview_tsx_9361061a._.js",
+      "static/chunks/components_Preview_tsx_304a1cf2._.js"
+    ]
+  },
+  "[project]/components/Report.tsx [app-client] (ecmascript, next/dynamic entry)": {
+    "id": "[project]/components/Report.tsx [app-client] (ecmascript, next/dynamic entry)",
+    "files": [
+      "static/chunks/components_styles_tabledate_18a1c71f.css",
+      "static/chunks/components_Report_tsx_42a3cdbf._.js",
+      "static/chunks/components_Report_tsx_304a1cf2._.js"
+    ]
+  },
+  "[project]/components/UpdateEmployee.tsx [app-client] (ecmascript, next/dynamic entry)": {
+    "id": "[project]/components/UpdateEmployee.tsx [app-client] (ecmascript, next/dynamic entry)",
+    "files": [
+      "static/chunks/components_UpdateEmployee_tsx_2d683be8._.js",
+      "static/chunks/components_UpdateEmployee_tsx_304a1cf2._.js"
+    ]
+  }
+}

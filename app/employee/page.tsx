@@ -1,3 +1,4 @@
+"use client";
 import MyDataTable from "@/components/DataTable";
 import '@/components/styles/loader.css';
 
